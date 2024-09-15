@@ -25,7 +25,7 @@
 <a href="mailto:sumuchamphandiq2004@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages(Just Starting🙂):</h3>
+<h3 align="left">Languages(Learning🧘🏻):</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
