@@ -1,7 +1,7 @@
 ![MasterHead](https://i.gifer.com/Cwai.gif)<h1 align="right">
 <h1 align="center">Hey there!👋, I’m Champak (pretty unique name, isn’t it?👽)
   Anyway...</h1>
-<h3 align="center">Just started coding and hyped to dive into the open source world, I'm eager to learn the latest tech, level up my skills, and make a real impact. Ready to collab, contribute, and grow with this amazing community. Let's make it happen✌️</h3>
+<h3 align="center">Just beginning my journey as Programmer and hyped to dive into the open source world, I'm eager to learn the latest tech, level up my skills, and make a real impact. Ready to collab, contribute, and grow with this amazing community. Let's make it happen✌️</h3>
 
 
 
