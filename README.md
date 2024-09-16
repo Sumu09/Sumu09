@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)<h1 align="center">
 <h1 align="center">Hey there!👋, I’m Champak (pretty unique name, isn’t it?👽)
   Anyway...</h1>
-![MasterHead](https://user-images.githubusercontent.com/98304653/194688946-6a476916-98f2-4593-8828-4df67f3fc4c2.gif)<h1 align="center">
 <h3 align="center">Just beginning my journey as Programmer and hyped to dive into the open source world, I'm eager to learn the latest tech, level up my skills, and make a real impact. Ready to collab, contribute, and grow with this amazing community. Let's make it happen✌️</h3>
 
 
