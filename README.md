@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **anything! I'm eager to share what I know and learn from everyone I meet.**
 
-- ⚡ Fun fact **I love talking about space, movies, and series—so feel free to hit me up on that!**
+- ⚡ Fun fact **I love talking about space, movies, and shows—so feel free to hit me up on that!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
