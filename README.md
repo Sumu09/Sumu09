@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
 </p>
-
+<h3 align="left">Skills👾:</h3
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumu09&show_icons=true&locale=en" alt="sumu09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumu09&" alt="sumu09" /></p>
