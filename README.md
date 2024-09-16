@@ -1,5 +1,6 @@
 <h1 align="center">Hey there!👋, I’m Champak (pretty unique name, isn’t it?👽)
   Anyway...</h1>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.c...")
 <h3 align="center">Just started coding and hyped to dive into the open source world, I'm eager to learn the latest tech, level up my skills, and make a real impact. Ready to collab, contribute, and grow with this amazing community. Let's make it happen✌️</h3>
 
 
