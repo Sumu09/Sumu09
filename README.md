@@ -2,7 +2,7 @@
 <h1 align="center">Hey there!👋, I’m Champak (pretty unique name, isn’t it?👽)
   Anyway...</h1>
 <div align="center">
-  <img src="https://pin.it/2zbNtjHll" alt="GIF" width="500"/>
+  <img src="https://gist.githubusercontent.com/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" alt="GIF" width="500"/>
 </div>
 <h3 align="center">Just beginning my journey as Programmer and hyped to dive into the open source world, I'm eager to learn the latest tech, level up my skills, and make a real impact. Ready to collab, contribute, and grow with this amazing community. Let's make it happen✌️</h3>
 
