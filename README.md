@@ -1,6 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)<h1 align="center">
 <h1 align="center">Hey there!👋, I’m Champak (pretty unique name, isn’t it?👽)
   Anyway...</h1>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://your-left-image-url.gif" alt="Left GIF" width="200" />
+  <img src="https://your-center-image-url.gif" alt="Center GIF" width="200" />
+  <img src="https://your-right-image-url.gif" alt="Right GIF" width="200" />
+</div>
 <div align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GIF" width="500"/>
 </div>
