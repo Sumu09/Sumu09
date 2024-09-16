@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **C++, and soon I'll dive into JavaScript, I will try my best to develope my coding skill by learning every programming languages**
+- 🌱 I’m currently learning **C++, and soon I'll dive into JavaScript, I will try my best to develope my coding skill by learning every programming languages and tools**
 
 - 👨‍💻 I’m working on **basic coding projects right now. Stay tuned for updates🙂**
 
