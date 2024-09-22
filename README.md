@@ -39,4 +39,4 @@
 <p>&nbsp;<img align="center"
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumu09&" alt="sumu09" /></p>
+
