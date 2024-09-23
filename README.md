@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **C, and soon I'll dive into C++, I will try my best to develope my coding skill by learning every programming languages and tools**
+- 🌱 I’m currently learning **C, the mother of all languages🙏🏻, and soon I'll dive into C++, I will try my best to develope my coding skill by learning every programming languages and tools**
 
 - 👨‍💻 I’m working on **basic coding projects right now. Stay tuned for updates🙂**
 
