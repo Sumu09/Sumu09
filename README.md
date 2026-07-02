@@ -6,9 +6,14 @@
 </div>
 
 <h3 align="center">
-Just beginning my journey as a Programmer and hyped to dive into the open-source world!  
-I'm eager to learn the latest tech, level up my skills, and make a real impact.  
-Ready to collab, contribute, and grow with this amazing community. Let's make it happen✌️  
+## 👋 Hello!
+
+I'm a programmer on a journey of continuous learning and growth.
+
+I enjoy building projects, exploring new technologies, and improving my skills one step at a time. Always open to collaboration, open-source contributions, and opportunities to learn from the community.
+
+Thanks for stopping by! 🚀
+
 </h3>
 
 ---
