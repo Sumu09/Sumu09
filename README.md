@@ -6,8 +6,6 @@
 </div>
 
 <h3 align="center">
-## 👋 Hello!
-
 I'm a programmer on a journey of continuous learning and growth.
 
 I enjoy building projects, exploring new technologies, and improving my skills one step at a time. Always open to collaboration, open-source contributions, and opportunities to learn from the community.
